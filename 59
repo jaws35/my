@@ -1,0 +1,63 @@
+#EXTM3U
+http://yassooo.com:8080/benAlaa/829293992/80025
+#EXTINF:-1,beIN Sports English 01 HD
+http://yassooo.com:8080/benAlaa/829293992/80024
+#EXTINF:-1,beIN Sports English 02 HD
+http://yassooo.com:8080/benAlaa/829293992/80023
+#EXTINF:-1,beIN Sports Premium 01 FHD
+http://yassooo.com:8080/benAlaa/829293992/80020
+#EXTINF:-1,beIN Sports Premium 02 FHD
+http://yassooo.com:8080/benAlaa/829293992/80019
+#EXTINF:-1,beIN Sports Premium 03 FHD
+http://yassooo.com:8080/benAlaa/829293992/80018
+#EXTINF:-1,beIN Sports English 01 FHD
+http://yassooo.com:8080/benAlaa/829293992/80010
+#EXTINF:-1,beIN Sports English 02 FHD
+http://yassooo.com:8080/benAlaa/829293992/80009
+#EXTINF:-1,beIN Sports Premium 01 4K
+http://yassooo.com:8080/benAlaa/829293992/80051
+#EXTINF:-1,beIN Sports Premium 02 4K
+http://yassooo.com:8080/benAlaa/829293992/80050
+#EXTINF:-1,beIN Sports Premium 03 4K
+http://yassooo.com:8080/benAlaa/829293992/80049
+#EXTINF:-1,beIN Sports English 01 4K
+http://yassooo.com:8080/benAlaa/829293992/80040
+#EXTINF:-1,beIN Sports English 02 4K
+http://yassooo.com:8080/benAlaa/829293992/80039
+#EXTINF:-1,beIN Sports English 03 4K
+http://yassooo.com:8080/benAlaa/829293992/80038
+#EXTINF:-1,beIN Sports NBA 4K
+http://yassooo.com:8080/benAlaa/829293992/80035
+#EXTINF:-1,beIN Sports Premium 01 HEVC
+http://yassooo.com:8080/benAlaa/829293992/80061
+#EXTINF:-1,beIN Sports Premium 02 HEVC
+http://yassooo.com:8080/benAlaa/829293992/80060
+#EXTINF:-1,beIN Sports Premium 03 HEVC
+http://yassooo.com:8080/benAlaa/829293992/80059
+#EXTINF:-1,beIN Sports Premium 01 HD [VIP]
+http://yassooo.com:8080/benAlaa/829293992/80106
+#EXTINF:-1,beIN Sports Premium 02 HD [VIP]
+http://yassooo.com:8080/benAlaa/829293992/80105
+#EXTINF:-1,beIN Sports Premium 03 HD [VIP]
+http://yassooo.com:8080/benAlaa/829293992/80104
+#EXTINF:-1,beIN Sports English 01 HD [VIP]
+http://yassooo.com:8080/benAlaa/829293992/80095
+#EXTINF:-1,beIN Sports English 02 HD [VIP]
+http://yassooo.com:8080/benAlaa/829293992/80094
+#EXTINF:-1,beIN Sports English 03 HD [VIP]
+http://yassooo.com:8080/benAlaa/829293992/80093
+#EXTINF:-1,beIN Sports English 01 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80119
+#EXTINF:-1,beIN Sports English 02 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80118
+#EXTINF:-1,beIN Sports English 03 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80117
+#EXTINF:-1,beIN Sports English 01 Low
+http://yassooo.com:8080/benAlaa/829293992/80144
+#EXTINF:-1,beIN Sports English 02 Low
+http://yassooo.com:8080/benAlaa/829293992/80143
+#EXTINF:-1,beIN Sports English 03 Low
+http://yassooo.com:8080/benAlaa/829293992/80142
+#EXTM3U
+#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix (720p)
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
